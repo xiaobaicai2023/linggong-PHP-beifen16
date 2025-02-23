@@ -68,7 +68,7 @@
 
 # 源码合作
 
-![extending-a-theme](/xiaomage.jpg)
+![extending-a-theme](/wx.png)
 
 # 界面展示
 
